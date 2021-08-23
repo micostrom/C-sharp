@@ -1,0 +1,18 @@
+C:\Users\micos\source\repos\6. Harjoitus Salasana\6. Harjoitus Salasana\bin\Debug\net5.0-windows\6. Harjoitus Salasana.exe
+C:\Users\micos\source\repos\6. Harjoitus Salasana\6. Harjoitus Salasana\bin\Debug\net5.0-windows\6. Harjoitus Salasana.deps.json
+C:\Users\micos\source\repos\6. Harjoitus Salasana\6. Harjoitus Salasana\bin\Debug\net5.0-windows\6. Harjoitus Salasana.runtimeconfig.json
+C:\Users\micos\source\repos\6. Harjoitus Salasana\6. Harjoitus Salasana\bin\Debug\net5.0-windows\6. Harjoitus Salasana.runtimeconfig.dev.json
+C:\Users\micos\source\repos\6. Harjoitus Salasana\6. Harjoitus Salasana\bin\Debug\net5.0-windows\6. Harjoitus Salasana.dll
+C:\Users\micos\source\repos\6. Harjoitus Salasana\6. Harjoitus Salasana\bin\Debug\net5.0-windows\ref\6. Harjoitus Salasana.dll
+C:\Users\micos\source\repos\6. Harjoitus Salasana\6. Harjoitus Salasana\bin\Debug\net5.0-windows\6. Harjoitus Salasana.pdb
+C:\Users\micos\source\repos\6. Harjoitus Salasana\6. Harjoitus Salasana\obj\Debug\net5.0-windows\6. Harjoitus Salasana.csproj.AssemblyReference.cache
+C:\Users\micos\source\repos\6. Harjoitus Salasana\6. Harjoitus Salasana\obj\Debug\net5.0-windows\_6._Harjoitus_Salasana.SalasanaForm.resources
+C:\Users\micos\source\repos\6. Harjoitus Salasana\6. Harjoitus Salasana\obj\Debug\net5.0-windows\6. Harjoitus Salasana.csproj.GenerateResource.cache
+C:\Users\micos\source\repos\6. Harjoitus Salasana\6. Harjoitus Salasana\obj\Debug\net5.0-windows\6. Harjoitus Salasana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micos\source\repos\6. Harjoitus Salasana\6. Harjoitus Salasana\obj\Debug\net5.0-windows\6. Harjoitus Salasana.AssemblyInfoInputs.cache
+C:\Users\micos\source\repos\6. Harjoitus Salasana\6. Harjoitus Salasana\obj\Debug\net5.0-windows\6. Harjoitus Salasana.AssemblyInfo.cs
+C:\Users\micos\source\repos\6. Harjoitus Salasana\6. Harjoitus Salasana\obj\Debug\net5.0-windows\6. Harjoitus Salasana.csproj.CoreCompileInputs.cache
+C:\Users\micos\source\repos\6. Harjoitus Salasana\6. Harjoitus Salasana\obj\Debug\net5.0-windows\6. Harjoitus Salasana.dll
+C:\Users\micos\source\repos\6. Harjoitus Salasana\6. Harjoitus Salasana\obj\Debug\net5.0-windows\ref\6. Harjoitus Salasana.dll
+C:\Users\micos\source\repos\6. Harjoitus Salasana\6. Harjoitus Salasana\obj\Debug\net5.0-windows\6. Harjoitus Salasana.pdb
+C:\Users\micos\source\repos\6. Harjoitus Salasana\6. Harjoitus Salasana\obj\Debug\net5.0-windows\6. Harjoitus Salasana.genruntimeconfig.cache
