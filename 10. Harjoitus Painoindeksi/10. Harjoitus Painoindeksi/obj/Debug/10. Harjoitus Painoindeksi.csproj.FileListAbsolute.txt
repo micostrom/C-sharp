@@ -1,0 +1,10 @@
+C:\Users\mico.strom\source\repos\10. Harjoitus Painoindeksi\10. Harjoitus Painoindeksi\bin\Debug\_10.Harjoitus_Painoindeksi.exe.config
+C:\Users\mico.strom\source\repos\10. Harjoitus Painoindeksi\10. Harjoitus Painoindeksi\bin\Debug\_10.Harjoitus_Painoindeksi.exe
+C:\Users\mico.strom\source\repos\10. Harjoitus Painoindeksi\10. Harjoitus Painoindeksi\bin\Debug\_10.Harjoitus_Painoindeksi.pdb
+C:\Users\mico.strom\source\repos\10. Harjoitus Painoindeksi\10. Harjoitus Painoindeksi\obj\Debug\10. Harjoitus Painoindeksi.csprojAssemblyReference.cache
+C:\Users\mico.strom\source\repos\10. Harjoitus Painoindeksi\10. Harjoitus Painoindeksi\obj\Debug\_10.Harjoitus_Painoindeksi.Form1.resources
+C:\Users\mico.strom\source\repos\10. Harjoitus Painoindeksi\10. Harjoitus Painoindeksi\obj\Debug\_10.Harjoitus_Painoindeksi.Properties.Resources.resources
+C:\Users\mico.strom\source\repos\10. Harjoitus Painoindeksi\10. Harjoitus Painoindeksi\obj\Debug\10. Harjoitus Painoindeksi.csproj.GenerateResource.cache
+C:\Users\mico.strom\source\repos\10. Harjoitus Painoindeksi\10. Harjoitus Painoindeksi\obj\Debug\10. Harjoitus Painoindeksi.csproj.CoreCompileInputs.cache
+C:\Users\mico.strom\source\repos\10. Harjoitus Painoindeksi\10. Harjoitus Painoindeksi\obj\Debug\_10.Harjoitus_Painoindeksi.exe
+C:\Users\mico.strom\source\repos\10. Harjoitus Painoindeksi\10. Harjoitus Painoindeksi\obj\Debug\_10.Harjoitus_Painoindeksi.pdb
