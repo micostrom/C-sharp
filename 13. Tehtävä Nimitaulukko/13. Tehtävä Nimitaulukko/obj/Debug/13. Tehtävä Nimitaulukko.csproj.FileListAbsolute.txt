@@ -1,0 +1,10 @@
+C:\Users\mico.strom\source\repos\13. Tehtävä Nimitaulukko\13. Tehtävä Nimitaulukko\bin\Debug\_13.Tehtävä_Nimitaulukko.exe.config
+C:\Users\mico.strom\source\repos\13. Tehtävä Nimitaulukko\13. Tehtävä Nimitaulukko\bin\Debug\_13.Tehtävä_Nimitaulukko.exe
+C:\Users\mico.strom\source\repos\13. Tehtävä Nimitaulukko\13. Tehtävä Nimitaulukko\bin\Debug\_13.Tehtävä_Nimitaulukko.pdb
+C:\Users\mico.strom\source\repos\13. Tehtävä Nimitaulukko\13. Tehtävä Nimitaulukko\obj\Debug\13. Tehtävä Nimitaulukko.csprojAssemblyReference.cache
+C:\Users\mico.strom\source\repos\13. Tehtävä Nimitaulukko\13. Tehtävä Nimitaulukko\obj\Debug\_13.Tehtävä_Nimitaulukko.Form1.resources
+C:\Users\mico.strom\source\repos\13. Tehtävä Nimitaulukko\13. Tehtävä Nimitaulukko\obj\Debug\_13.Tehtävä_Nimitaulukko.Properties.Resources.resources
+C:\Users\mico.strom\source\repos\13. Tehtävä Nimitaulukko\13. Tehtävä Nimitaulukko\obj\Debug\13. Tehtävä Nimitaulukko.csproj.GenerateResource.cache
+C:\Users\mico.strom\source\repos\13. Tehtävä Nimitaulukko\13. Tehtävä Nimitaulukko\obj\Debug\13. Tehtävä Nimitaulukko.csproj.CoreCompileInputs.cache
+C:\Users\mico.strom\source\repos\13. Tehtävä Nimitaulukko\13. Tehtävä Nimitaulukko\obj\Debug\_13.Tehtävä_Nimitaulukko.exe
+C:\Users\mico.strom\source\repos\13. Tehtävä Nimitaulukko\13. Tehtävä Nimitaulukko\obj\Debug\_13.Tehtävä_Nimitaulukko.pdb
