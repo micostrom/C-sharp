@@ -1,0 +1,10 @@
+C:\Users\mico.strom\source\repos\11. Harjoitus Noppa\11. Harjoitus Noppa\bin\Debug\_11.Harjoitus_Noppa.exe.config
+C:\Users\mico.strom\source\repos\11. Harjoitus Noppa\11. Harjoitus Noppa\bin\Debug\_11.Harjoitus_Noppa.exe
+C:\Users\mico.strom\source\repos\11. Harjoitus Noppa\11. Harjoitus Noppa\bin\Debug\_11.Harjoitus_Noppa.pdb
+C:\Users\mico.strom\source\repos\11. Harjoitus Noppa\11. Harjoitus Noppa\obj\Debug\11. Harjoitus Noppa.csprojAssemblyReference.cache
+C:\Users\mico.strom\source\repos\11. Harjoitus Noppa\11. Harjoitus Noppa\obj\Debug\_11.Harjoitus_Noppa.Form1.resources
+C:\Users\mico.strom\source\repos\11. Harjoitus Noppa\11. Harjoitus Noppa\obj\Debug\_11.Harjoitus_Noppa.Properties.Resources.resources
+C:\Users\mico.strom\source\repos\11. Harjoitus Noppa\11. Harjoitus Noppa\obj\Debug\11. Harjoitus Noppa.csproj.GenerateResource.cache
+C:\Users\mico.strom\source\repos\11. Harjoitus Noppa\11. Harjoitus Noppa\obj\Debug\11. Harjoitus Noppa.csproj.CoreCompileInputs.cache
+C:\Users\mico.strom\source\repos\11. Harjoitus Noppa\11. Harjoitus Noppa\obj\Debug\_11.Harjoitus_Noppa.exe
+C:\Users\mico.strom\source\repos\11. Harjoitus Noppa\11. Harjoitus Noppa\obj\Debug\_11.Harjoitus_Noppa.pdb
