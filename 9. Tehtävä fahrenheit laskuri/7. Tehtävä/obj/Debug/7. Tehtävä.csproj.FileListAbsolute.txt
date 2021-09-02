@@ -1,0 +1,10 @@
+C:\Users\mico.strom\source\repos\7. Tehtävä\7. Tehtävä\bin\Debug\_7.Tehtävä.exe.config
+C:\Users\mico.strom\source\repos\7. Tehtävä\7. Tehtävä\bin\Debug\_7.Tehtävä.exe
+C:\Users\mico.strom\source\repos\7. Tehtävä\7. Tehtävä\bin\Debug\_7.Tehtävä.pdb
+C:\Users\mico.strom\source\repos\7. Tehtävä\7. Tehtävä\obj\Debug\7. Tehtävä.csprojAssemblyReference.cache
+C:\Users\mico.strom\source\repos\7. Tehtävä\7. Tehtävä\obj\Debug\_7.Tehtävä.Form1.resources
+C:\Users\mico.strom\source\repos\7. Tehtävä\7. Tehtävä\obj\Debug\_7.Tehtävä.Properties.Resources.resources
+C:\Users\mico.strom\source\repos\7. Tehtävä\7. Tehtävä\obj\Debug\7. Tehtävä.csproj.GenerateResource.cache
+C:\Users\mico.strom\source\repos\7. Tehtävä\7. Tehtävä\obj\Debug\7. Tehtävä.csproj.CoreCompileInputs.cache
+C:\Users\mico.strom\source\repos\7. Tehtävä\7. Tehtävä\obj\Debug\_7.Tehtävä.exe
+C:\Users\mico.strom\source\repos\7. Tehtävä\7. Tehtävä\obj\Debug\_7.Tehtävä.pdb
