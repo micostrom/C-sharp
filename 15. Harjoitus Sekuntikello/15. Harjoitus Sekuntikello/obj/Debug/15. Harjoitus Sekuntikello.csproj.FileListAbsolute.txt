@@ -1,0 +1,10 @@
+C:\Users\mico.strom\source\repos\15. Harjoitus Sekuntikello\15. Harjoitus Sekuntikello\bin\Debug\_15.Harjoitus_Sekuntikello.exe.config
+C:\Users\mico.strom\source\repos\15. Harjoitus Sekuntikello\15. Harjoitus Sekuntikello\bin\Debug\_15.Harjoitus_Sekuntikello.exe
+C:\Users\mico.strom\source\repos\15. Harjoitus Sekuntikello\15. Harjoitus Sekuntikello\bin\Debug\_15.Harjoitus_Sekuntikello.pdb
+C:\Users\mico.strom\source\repos\15. Harjoitus Sekuntikello\15. Harjoitus Sekuntikello\obj\Debug\15. Harjoitus Sekuntikello.csprojAssemblyReference.cache
+C:\Users\mico.strom\source\repos\15. Harjoitus Sekuntikello\15. Harjoitus Sekuntikello\obj\Debug\_15.Harjoitus_Sekuntikello.SekkariForm.resources
+C:\Users\mico.strom\source\repos\15. Harjoitus Sekuntikello\15. Harjoitus Sekuntikello\obj\Debug\_15.Harjoitus_Sekuntikello.Properties.Resources.resources
+C:\Users\mico.strom\source\repos\15. Harjoitus Sekuntikello\15. Harjoitus Sekuntikello\obj\Debug\15. Harjoitus Sekuntikello.csproj.GenerateResource.cache
+C:\Users\mico.strom\source\repos\15. Harjoitus Sekuntikello\15. Harjoitus Sekuntikello\obj\Debug\15. Harjoitus Sekuntikello.csproj.CoreCompileInputs.cache
+C:\Users\mico.strom\source\repos\15. Harjoitus Sekuntikello\15. Harjoitus Sekuntikello\obj\Debug\_15.Harjoitus_Sekuntikello.exe
+C:\Users\mico.strom\source\repos\15. Harjoitus Sekuntikello\15. Harjoitus Sekuntikello\obj\Debug\_15.Harjoitus_Sekuntikello.pdb
