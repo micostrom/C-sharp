@@ -1,0 +1,10 @@
+C:\Users\mico.strom\source\repos\Paivakirja\Paivakirja\bin\Debug\Paivakirja.exe.config
+C:\Users\mico.strom\source\repos\Paivakirja\Paivakirja\bin\Debug\Paivakirja.exe
+C:\Users\mico.strom\source\repos\Paivakirja\Paivakirja\bin\Debug\Paivakirja.pdb
+C:\Users\mico.strom\source\repos\Paivakirja\Paivakirja\obj\Debug\Paivakirja.csprojAssemblyReference.cache
+C:\Users\mico.strom\source\repos\Paivakirja\Paivakirja\obj\Debug\Paivakirja.Form1.resources
+C:\Users\mico.strom\source\repos\Paivakirja\Paivakirja\obj\Debug\Paivakirja.Properties.Resources.resources
+C:\Users\mico.strom\source\repos\Paivakirja\Paivakirja\obj\Debug\Paivakirja.csproj.GenerateResource.cache
+C:\Users\mico.strom\source\repos\Paivakirja\Paivakirja\obj\Debug\Paivakirja.csproj.CoreCompileInputs.cache
+C:\Users\mico.strom\source\repos\Paivakirja\Paivakirja\obj\Debug\Paivakirja.exe
+C:\Users\mico.strom\source\repos\Paivakirja\Paivakirja\obj\Debug\Paivakirja.pdb
