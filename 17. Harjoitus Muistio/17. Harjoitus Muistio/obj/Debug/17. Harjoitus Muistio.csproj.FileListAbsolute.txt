@@ -1,0 +1,10 @@
+C:\Users\mico.strom\source\repos\17. Harjoitus Muistio\17. Harjoitus Muistio\bin\Debug\_17.Harjoitus_Muistio.exe.config
+C:\Users\mico.strom\source\repos\17. Harjoitus Muistio\17. Harjoitus Muistio\bin\Debug\_17.Harjoitus_Muistio.exe
+C:\Users\mico.strom\source\repos\17. Harjoitus Muistio\17. Harjoitus Muistio\bin\Debug\_17.Harjoitus_Muistio.pdb
+C:\Users\mico.strom\source\repos\17. Harjoitus Muistio\17. Harjoitus Muistio\obj\Debug\17. Harjoitus Muistio.csprojAssemblyReference.cache
+C:\Users\mico.strom\source\repos\17. Harjoitus Muistio\17. Harjoitus Muistio\obj\Debug\_17.Harjoitus_Muistio.NotepadForm.resources
+C:\Users\mico.strom\source\repos\17. Harjoitus Muistio\17. Harjoitus Muistio\obj\Debug\_17.Harjoitus_Muistio.Properties.Resources.resources
+C:\Users\mico.strom\source\repos\17. Harjoitus Muistio\17. Harjoitus Muistio\obj\Debug\17. Harjoitus Muistio.csproj.GenerateResource.cache
+C:\Users\mico.strom\source\repos\17. Harjoitus Muistio\17. Harjoitus Muistio\obj\Debug\17. Harjoitus Muistio.csproj.CoreCompileInputs.cache
+C:\Users\mico.strom\source\repos\17. Harjoitus Muistio\17. Harjoitus Muistio\obj\Debug\_17.Harjoitus_Muistio.exe
+C:\Users\mico.strom\source\repos\17. Harjoitus Muistio\17. Harjoitus Muistio\obj\Debug\_17.Harjoitus_Muistio.pdb
