@@ -1,0 +1,10 @@
+C:\Users\mico.strom\source\repos\16. Harjoitus Ajastin\16. Harjoitus Ajastin\bin\Debug\_16.Harjoitus_Ajastin.exe.config
+C:\Users\mico.strom\source\repos\16. Harjoitus Ajastin\16. Harjoitus Ajastin\bin\Debug\_16.Harjoitus_Ajastin.exe
+C:\Users\mico.strom\source\repos\16. Harjoitus Ajastin\16. Harjoitus Ajastin\bin\Debug\_16.Harjoitus_Ajastin.pdb
+C:\Users\mico.strom\source\repos\16. Harjoitus Ajastin\16. Harjoitus Ajastin\obj\Debug\16. Harjoitus Ajastin.csprojAssemblyReference.cache
+C:\Users\mico.strom\source\repos\16. Harjoitus Ajastin\16. Harjoitus Ajastin\obj\Debug\_16.Harjoitus_Ajastin.CountDownFrom.resources
+C:\Users\mico.strom\source\repos\16. Harjoitus Ajastin\16. Harjoitus Ajastin\obj\Debug\_16.Harjoitus_Ajastin.Properties.Resources.resources
+C:\Users\mico.strom\source\repos\16. Harjoitus Ajastin\16. Harjoitus Ajastin\obj\Debug\16. Harjoitus Ajastin.csproj.GenerateResource.cache
+C:\Users\mico.strom\source\repos\16. Harjoitus Ajastin\16. Harjoitus Ajastin\obj\Debug\16. Harjoitus Ajastin.csproj.CoreCompileInputs.cache
+C:\Users\mico.strom\source\repos\16. Harjoitus Ajastin\16. Harjoitus Ajastin\obj\Debug\_16.Harjoitus_Ajastin.exe
+C:\Users\mico.strom\source\repos\16. Harjoitus Ajastin\16. Harjoitus Ajastin\obj\Debug\_16.Harjoitus_Ajastin.pdb
