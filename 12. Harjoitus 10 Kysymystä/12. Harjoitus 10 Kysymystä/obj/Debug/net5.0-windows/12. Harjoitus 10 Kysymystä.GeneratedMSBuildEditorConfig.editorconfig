@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = _12._Harjoitus_10_Kysymystä
+build_property.ProjectDir = C:\Users\mico.strom\source\repos\12. Harjoitus 10 Kysymystä\12. Harjoitus 10 Kysymystä\

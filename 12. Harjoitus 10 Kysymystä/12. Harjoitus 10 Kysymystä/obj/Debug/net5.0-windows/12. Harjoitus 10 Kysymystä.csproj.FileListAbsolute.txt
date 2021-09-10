@@ -1,0 +1,18 @@
+C:\Users\mico.strom\source\repos\12. Harjoitus 10 Kysymystä\12. Harjoitus 10 Kysymystä\bin\Debug\net5.0-windows\12. Harjoitus 10 Kysymystä.exe
+C:\Users\mico.strom\source\repos\12. Harjoitus 10 Kysymystä\12. Harjoitus 10 Kysymystä\bin\Debug\net5.0-windows\12. Harjoitus 10 Kysymystä.deps.json
+C:\Users\mico.strom\source\repos\12. Harjoitus 10 Kysymystä\12. Harjoitus 10 Kysymystä\bin\Debug\net5.0-windows\12. Harjoitus 10 Kysymystä.runtimeconfig.json
+C:\Users\mico.strom\source\repos\12. Harjoitus 10 Kysymystä\12. Harjoitus 10 Kysymystä\bin\Debug\net5.0-windows\12. Harjoitus 10 Kysymystä.runtimeconfig.dev.json
+C:\Users\mico.strom\source\repos\12. Harjoitus 10 Kysymystä\12. Harjoitus 10 Kysymystä\bin\Debug\net5.0-windows\12. Harjoitus 10 Kysymystä.dll
+C:\Users\mico.strom\source\repos\12. Harjoitus 10 Kysymystä\12. Harjoitus 10 Kysymystä\bin\Debug\net5.0-windows\ref\12. Harjoitus 10 Kysymystä.dll
+C:\Users\mico.strom\source\repos\12. Harjoitus 10 Kysymystä\12. Harjoitus 10 Kysymystä\bin\Debug\net5.0-windows\12. Harjoitus 10 Kysymystä.pdb
+C:\Users\mico.strom\source\repos\12. Harjoitus 10 Kysymystä\12. Harjoitus 10 Kysymystä\obj\Debug\net5.0-windows\12. Harjoitus 10 Kysymystä.csproj.AssemblyReference.cache
+C:\Users\mico.strom\source\repos\12. Harjoitus 10 Kysymystä\12. Harjoitus 10 Kysymystä\obj\Debug\net5.0-windows\_12._Harjoitus_10_Kysymystä.VastaulomakeForm.resources
+C:\Users\mico.strom\source\repos\12. Harjoitus 10 Kysymystä\12. Harjoitus 10 Kysymystä\obj\Debug\net5.0-windows\12. Harjoitus 10 Kysymystä.csproj.GenerateResource.cache
+C:\Users\mico.strom\source\repos\12. Harjoitus 10 Kysymystä\12. Harjoitus 10 Kysymystä\obj\Debug\net5.0-windows\12. Harjoitus 10 Kysymystä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mico.strom\source\repos\12. Harjoitus 10 Kysymystä\12. Harjoitus 10 Kysymystä\obj\Debug\net5.0-windows\12. Harjoitus 10 Kysymystä.AssemblyInfoInputs.cache
+C:\Users\mico.strom\source\repos\12. Harjoitus 10 Kysymystä\12. Harjoitus 10 Kysymystä\obj\Debug\net5.0-windows\12. Harjoitus 10 Kysymystä.AssemblyInfo.cs
+C:\Users\mico.strom\source\repos\12. Harjoitus 10 Kysymystä\12. Harjoitus 10 Kysymystä\obj\Debug\net5.0-windows\12. Harjoitus 10 Kysymystä.csproj.CoreCompileInputs.cache
+C:\Users\mico.strom\source\repos\12. Harjoitus 10 Kysymystä\12. Harjoitus 10 Kysymystä\obj\Debug\net5.0-windows\12. Harjoitus 10 Kysymystä.dll
+C:\Users\mico.strom\source\repos\12. Harjoitus 10 Kysymystä\12. Harjoitus 10 Kysymystä\obj\Debug\net5.0-windows\ref\12. Harjoitus 10 Kysymystä.dll
+C:\Users\mico.strom\source\repos\12. Harjoitus 10 Kysymystä\12. Harjoitus 10 Kysymystä\obj\Debug\net5.0-windows\12. Harjoitus 10 Kysymystä.pdb
+C:\Users\mico.strom\source\repos\12. Harjoitus 10 Kysymystä\12. Harjoitus 10 Kysymystä\obj\Debug\net5.0-windows\12. Harjoitus 10 Kysymystä.genruntimeconfig.cache
