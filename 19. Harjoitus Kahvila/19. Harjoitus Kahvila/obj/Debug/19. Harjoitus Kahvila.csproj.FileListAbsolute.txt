@@ -1,0 +1,10 @@
+C:\Users\mico.strom\source\repos\19. Harjoitus Kahvila\19. Harjoitus Kahvila\bin\Debug\_19.Harjoitus_Kahvila.exe.config
+C:\Users\mico.strom\source\repos\19. Harjoitus Kahvila\19. Harjoitus Kahvila\bin\Debug\_19.Harjoitus_Kahvila.exe
+C:\Users\mico.strom\source\repos\19. Harjoitus Kahvila\19. Harjoitus Kahvila\bin\Debug\_19.Harjoitus_Kahvila.pdb
+C:\Users\mico.strom\source\repos\19. Harjoitus Kahvila\19. Harjoitus Kahvila\obj\Debug\19. Harjoitus Kahvila.csprojAssemblyReference.cache
+C:\Users\mico.strom\source\repos\19. Harjoitus Kahvila\19. Harjoitus Kahvila\obj\Debug\_19.Harjoitus_Kahvila.RuokalistaForm.resources
+C:\Users\mico.strom\source\repos\19. Harjoitus Kahvila\19. Harjoitus Kahvila\obj\Debug\_19.Harjoitus_Kahvila.Properties.Resources.resources
+C:\Users\mico.strom\source\repos\19. Harjoitus Kahvila\19. Harjoitus Kahvila\obj\Debug\19. Harjoitus Kahvila.csproj.GenerateResource.cache
+C:\Users\mico.strom\source\repos\19. Harjoitus Kahvila\19. Harjoitus Kahvila\obj\Debug\19. Harjoitus Kahvila.csproj.CoreCompileInputs.cache
+C:\Users\mico.strom\source\repos\19. Harjoitus Kahvila\19. Harjoitus Kahvila\obj\Debug\_19.Harjoitus_Kahvila.exe
+C:\Users\mico.strom\source\repos\19. Harjoitus Kahvila\19. Harjoitus Kahvila\obj\Debug\_19.Harjoitus_Kahvila.pdb
