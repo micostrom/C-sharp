@@ -1,0 +1,18 @@
+C:\Users\micos\source\repos\T1-tasonohjelmointi\9. Harjoitus Astemuunnin\9. Harjoitus Astemuunnin\bin\Debug\net5.0-windows\9. Harjoitus Astemuunnin.exe
+C:\Users\micos\source\repos\T1-tasonohjelmointi\9. Harjoitus Astemuunnin\9. Harjoitus Astemuunnin\bin\Debug\net5.0-windows\9. Harjoitus Astemuunnin.deps.json
+C:\Users\micos\source\repos\T1-tasonohjelmointi\9. Harjoitus Astemuunnin\9. Harjoitus Astemuunnin\bin\Debug\net5.0-windows\9. Harjoitus Astemuunnin.runtimeconfig.json
+C:\Users\micos\source\repos\T1-tasonohjelmointi\9. Harjoitus Astemuunnin\9. Harjoitus Astemuunnin\bin\Debug\net5.0-windows\9. Harjoitus Astemuunnin.runtimeconfig.dev.json
+C:\Users\micos\source\repos\T1-tasonohjelmointi\9. Harjoitus Astemuunnin\9. Harjoitus Astemuunnin\bin\Debug\net5.0-windows\9. Harjoitus Astemuunnin.dll
+C:\Users\micos\source\repos\T1-tasonohjelmointi\9. Harjoitus Astemuunnin\9. Harjoitus Astemuunnin\bin\Debug\net5.0-windows\ref\9. Harjoitus Astemuunnin.dll
+C:\Users\micos\source\repos\T1-tasonohjelmointi\9. Harjoitus Astemuunnin\9. Harjoitus Astemuunnin\bin\Debug\net5.0-windows\9. Harjoitus Astemuunnin.pdb
+C:\Users\micos\source\repos\T1-tasonohjelmointi\9. Harjoitus Astemuunnin\9. Harjoitus Astemuunnin\obj\Debug\net5.0-windows\9. Harjoitus Astemuunnin.csproj.AssemblyReference.cache
+C:\Users\micos\source\repos\T1-tasonohjelmointi\9. Harjoitus Astemuunnin\9. Harjoitus Astemuunnin\obj\Debug\net5.0-windows\_9._Harjoitus_Astemuunnin.Form1.resources
+C:\Users\micos\source\repos\T1-tasonohjelmointi\9. Harjoitus Astemuunnin\9. Harjoitus Astemuunnin\obj\Debug\net5.0-windows\9. Harjoitus Astemuunnin.csproj.GenerateResource.cache
+C:\Users\micos\source\repos\T1-tasonohjelmointi\9. Harjoitus Astemuunnin\9. Harjoitus Astemuunnin\obj\Debug\net5.0-windows\9. Harjoitus Astemuunnin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micos\source\repos\T1-tasonohjelmointi\9. Harjoitus Astemuunnin\9. Harjoitus Astemuunnin\obj\Debug\net5.0-windows\9. Harjoitus Astemuunnin.AssemblyInfoInputs.cache
+C:\Users\micos\source\repos\T1-tasonohjelmointi\9. Harjoitus Astemuunnin\9. Harjoitus Astemuunnin\obj\Debug\net5.0-windows\9. Harjoitus Astemuunnin.AssemblyInfo.cs
+C:\Users\micos\source\repos\T1-tasonohjelmointi\9. Harjoitus Astemuunnin\9. Harjoitus Astemuunnin\obj\Debug\net5.0-windows\9. Harjoitus Astemuunnin.csproj.CoreCompileInputs.cache
+C:\Users\micos\source\repos\T1-tasonohjelmointi\9. Harjoitus Astemuunnin\9. Harjoitus Astemuunnin\obj\Debug\net5.0-windows\9. Harjoitus Astemuunnin.dll
+C:\Users\micos\source\repos\T1-tasonohjelmointi\9. Harjoitus Astemuunnin\9. Harjoitus Astemuunnin\obj\Debug\net5.0-windows\ref\9. Harjoitus Astemuunnin.dll
+C:\Users\micos\source\repos\T1-tasonohjelmointi\9. Harjoitus Astemuunnin\9. Harjoitus Astemuunnin\obj\Debug\net5.0-windows\9. Harjoitus Astemuunnin.pdb
+C:\Users\micos\source\repos\T1-tasonohjelmointi\9. Harjoitus Astemuunnin\9. Harjoitus Astemuunnin\obj\Debug\net5.0-windows\9. Harjoitus Astemuunnin.genruntimeconfig.cache
