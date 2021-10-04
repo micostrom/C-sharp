@@ -1,0 +1,18 @@
+C:\Users\micos\source\repos\5. Harjoitus Lukujenjärjestys\5. Harjoitus Lukujenjärjestys\bin\Debug\net5.0-windows\5. Harjoitus Lukujenjärjestys.exe
+C:\Users\micos\source\repos\5. Harjoitus Lukujenjärjestys\5. Harjoitus Lukujenjärjestys\bin\Debug\net5.0-windows\5. Harjoitus Lukujenjärjestys.deps.json
+C:\Users\micos\source\repos\5. Harjoitus Lukujenjärjestys\5. Harjoitus Lukujenjärjestys\bin\Debug\net5.0-windows\5. Harjoitus Lukujenjärjestys.runtimeconfig.json
+C:\Users\micos\source\repos\5. Harjoitus Lukujenjärjestys\5. Harjoitus Lukujenjärjestys\bin\Debug\net5.0-windows\5. Harjoitus Lukujenjärjestys.runtimeconfig.dev.json
+C:\Users\micos\source\repos\5. Harjoitus Lukujenjärjestys\5. Harjoitus Lukujenjärjestys\bin\Debug\net5.0-windows\5. Harjoitus Lukujenjärjestys.dll
+C:\Users\micos\source\repos\5. Harjoitus Lukujenjärjestys\5. Harjoitus Lukujenjärjestys\bin\Debug\net5.0-windows\ref\5. Harjoitus Lukujenjärjestys.dll
+C:\Users\micos\source\repos\5. Harjoitus Lukujenjärjestys\5. Harjoitus Lukujenjärjestys\bin\Debug\net5.0-windows\5. Harjoitus Lukujenjärjestys.pdb
+C:\Users\micos\source\repos\5. Harjoitus Lukujenjärjestys\5. Harjoitus Lukujenjärjestys\obj\Debug\net5.0-windows\5. Harjoitus Lukujenjärjestys.csproj.AssemblyReference.cache
+C:\Users\micos\source\repos\5. Harjoitus Lukujenjärjestys\5. Harjoitus Lukujenjärjestys\obj\Debug\net5.0-windows\_5._Harjoitus_Lukujenjärjestys.Lukujenjarjestys.resources
+C:\Users\micos\source\repos\5. Harjoitus Lukujenjärjestys\5. Harjoitus Lukujenjärjestys\obj\Debug\net5.0-windows\5. Harjoitus Lukujenjärjestys.csproj.GenerateResource.cache
+C:\Users\micos\source\repos\5. Harjoitus Lukujenjärjestys\5. Harjoitus Lukujenjärjestys\obj\Debug\net5.0-windows\5. Harjoitus Lukujenjärjestys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micos\source\repos\5. Harjoitus Lukujenjärjestys\5. Harjoitus Lukujenjärjestys\obj\Debug\net5.0-windows\5. Harjoitus Lukujenjärjestys.AssemblyInfoInputs.cache
+C:\Users\micos\source\repos\5. Harjoitus Lukujenjärjestys\5. Harjoitus Lukujenjärjestys\obj\Debug\net5.0-windows\5. Harjoitus Lukujenjärjestys.AssemblyInfo.cs
+C:\Users\micos\source\repos\5. Harjoitus Lukujenjärjestys\5. Harjoitus Lukujenjärjestys\obj\Debug\net5.0-windows\5. Harjoitus Lukujenjärjestys.csproj.CoreCompileInputs.cache
+C:\Users\micos\source\repos\5. Harjoitus Lukujenjärjestys\5. Harjoitus Lukujenjärjestys\obj\Debug\net5.0-windows\5. Harjoitus Lukujenjärjestys.dll
+C:\Users\micos\source\repos\5. Harjoitus Lukujenjärjestys\5. Harjoitus Lukujenjärjestys\obj\Debug\net5.0-windows\ref\5. Harjoitus Lukujenjärjestys.dll
+C:\Users\micos\source\repos\5. Harjoitus Lukujenjärjestys\5. Harjoitus Lukujenjärjestys\obj\Debug\net5.0-windows\5. Harjoitus Lukujenjärjestys.pdb
+C:\Users\micos\source\repos\5. Harjoitus Lukujenjärjestys\5. Harjoitus Lukujenjärjestys\obj\Debug\net5.0-windows\5. Harjoitus Lukujenjärjestys.genruntimeconfig.cache

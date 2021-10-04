@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "5. Harjoitus Lukujenjärjestys/1.0.0": {
+        "runtime": {
+          "5. Harjoitus Lukujenjärjestys.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5. Harjoitus Lukujenjärjestys/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
